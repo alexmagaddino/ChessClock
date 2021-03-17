@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="elevation">20dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_radius">10dp</dimen>
+</resources>
